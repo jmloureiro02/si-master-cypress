@@ -1,2 +1,2 @@
 # si-master-cypress
-cypress+circleci testing solution
+cypress+circleci software testing solution
